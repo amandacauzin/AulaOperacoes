@@ -9,4 +9,4 @@ for enviar in range(3):
         print('Detalhes enviados no e-mail')
         break
 else:
-    print('Falha na compra!!!')
+    print('Falha na compra!')
